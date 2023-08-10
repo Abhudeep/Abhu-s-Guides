@@ -10,7 +10,7 @@ These are a list of notebooks created by me, containing codes to study, revise a
 | **Regression**| [link]()|Asssumptions, Types, Feature scaping, Data Interpretation, Intuituon building, model building|
 | **Classification** |[link]()|Assumptions, sigmoid function, decision boundary, gradient descent and implementation|
 | **Deep Learning** |[link]()|⚠️ In progress|
-| **Naive Bayes** |[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Naive%20Bayes.ipynb)|Maths, implementaion, deployment and optimization |
-| **Support Vector Machines and Classifiers** |[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Support%20Vector%20Classifier%20and%20Machines.ipynb)|Maths, implementaion, deployment and optimization |
+| **Naive Bayes** |[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Naive%20Bayes.ipynb)|Maths, implementation, deployment and optimization |
+| **Support Vector Machines and Classifiers** |[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/Support%20Vector%20Classifier%20and%20Machines.ipynb)|Maths, implementation, deployment and optimization |
 | **SQL** |[link](https://github.com/Abhudeep/Abhu-s-Guides/blob/main/SQL.ipynb)|Comprehensive sql tutorial : <ul><li> **Basic SQL**: Introduction to SQL; SELECT FROM statement; WHERE statement; ORDER BY statement, LIMIT statement, DISTINCT </li><li>**LOGICAL and COMPARISON Operators** </li><li>**Aggregates**: Aggregate Functions (COUNT, SUM, MIN/MAX, AVG); GROUP BY clause; HAVING clause </li><li>**Conditional Expressions**: CASE WHEN, COALESCE, IFNULL</li><li>**JOINS and UNIONS**</li><li>**Subqueries and Common Table Expressions**</li><li>**String Manipulations**</li><li>**Date-time manipulation**: EXTRACT, DATE_ADD(), DATE_SUB(), DATE_DIFF()</li><li>**Windows Functions**: ROW_NUMBER(), RANK(), DENSE_RANK(), LAG, LEAD, SUM, COUNT, AVG|
 
